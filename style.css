@@ -1,3 +1,14 @@
-body{
+.cabecalho{
     background-color:rgb(160, 226, 247);
+    color: aqua;
+    display:flex; /*novo*/
+    justify-content: space-around; /*novo*/
+    padding: 240px;
+}
+
+
+.cabecalhoListaItem{ /*novo*/
+  display:inline-block; /*novo*/
+  margin: 0 120px;/*novo*/
+  padding:78px 0;/*novo*/
 }
