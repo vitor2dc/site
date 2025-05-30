@@ -17,4 +17,23 @@
   display:inline-block; 
   margin: 0 120px;
   padding:78px 0;
+}.sobreImagem{
+           width:
+}
+
+.sobre{
+        background-image: linear-gradient(#FFFFFF, #FFFFFF);
+        color: orange;
+        display: flex;
+        justify-content: center;
+       align-items: center;
+       padding: 370px 0;
+}
+
+.sobreConteudo{
+        width:
+}
+
+.sobreTitulo{
+         padding: 100px 50px;
 }
