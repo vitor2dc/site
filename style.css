@@ -18,12 +18,12 @@
   margin: 0 120px;
   padding:78px 0;
 }.sobreImagem{
-           width:
+           width:30%
 }
 
 .sobre{
-        background-image: linear-gradient(#FFFFFF, #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#17cabb, #13cec4);
+        color: rgb(23, 238, 156);
         display: flex;
         justify-content: center;
        align-items: center;
@@ -31,7 +31,7 @@
 }
 
 .sobreConteudo{
-        width:
+        width:30%
 }
 
 .sobreTitulo{
