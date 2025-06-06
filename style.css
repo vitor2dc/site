@@ -4,8 +4,8 @@
 } /*novo*/
 
 .cabecalho{
-    background-color:rgb(160, 226, 247);
-    color: aqua;
+    background-color:rgb(34, 94, 112);
+    color: rgb(5, 71, 71);
     display:flex; /*novo*/
     justify-content: space-around; /*novo*/
     padding: 240px;
